@@ -546,13 +546,11 @@ margin: 0 auto;
 }
 
 .contacts-data-img{
-background-image: url('../img/social.png');
 -webkit-background-size: cover;
 background-size: cover;
-width: 240px;
-height: 42px;
+width: 280px;
+height: 48px;
 color: #ffffff;
-margin-left: 25px;
 }
 
 .main-header-list {
